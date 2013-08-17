@@ -48,5 +48,5 @@ PRO TIP:
 add this script to your crontab
 ```
 #!bash
-0 0,4,8,12,16,20 * * * root python /var/www/miner/PiMinerStats.py
+0 0,4,8,12,16,20 * * * root python /var/www/miner/PyMinerStats.py
 ```
